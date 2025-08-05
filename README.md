@@ -3,6 +3,7 @@ A universal customizable recording program for Windows on python.
 Video formats: *avi*, *mp4*.
 
 You can change these things in this program: *recording monitor*, *any record hotkey*, *any fps*, *any video card*, *any record filename with your custom formatting*, *any colorspace*, *any records folder*.
+
 ![Main window screenshot](/screenshot1.png)
 ![Settings window screenshot](/screenshot2.png)
 
