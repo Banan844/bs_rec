@@ -1,5 +1,5 @@
 # Banana Skin recording program
-A universal customizable recording program for Windows on python.
+A fast, universal, customizable recording program for Windows on python.
 Video formats: *avi*, *mp4*.
 
 You can change these things in this program: *recording monitor*, *any record hotkey*, *any fps*, *any video card*, *any record filename with your custom formatting*, *any colorspace*, *any records folder*.
