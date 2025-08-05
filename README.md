@@ -1,4 +1,4 @@
-# Banana Skin record
+# Banana Skin recording program
 A universal customizable recording program for Windows on python.
 Video formats: *avi*, *mp4*.
 
